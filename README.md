@@ -37,8 +37,5 @@ The baseline uses recent demand with a damped trend and reports MAE/WAPE for a n
 ## Presentation
 Open `presentation/Retail_Reimagined_AI_Innovation.pptx` in PowerPoint or import it into Canva. The five-slide deck covers personalisation, predictive fulfilment, omnichannel experience and a 90-day pilot roadmap. It frames benefits as hypotheses rather than measured outcomes.
 
-## Limitations
-This is a learning/portfolio proof of concept, not a production AI service. It does not use deep learning, live inventory, customer identity, real-time events or production-grade evaluation. See `research/industry_research_brief.md` and `research/sources.md`.
-
 ## License
 MIT.
